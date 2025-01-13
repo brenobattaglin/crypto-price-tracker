@@ -9,11 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  bloc: ^8.0.0
-  flutter_bloc: ^8.1.6
+  bloc: ^9.0.0
+  flutter_bloc: ^9.0.0
   equatable: ^2.0.7
   google_fonts: ^6.2.1
-  hydrated_bloc: ^9.1.5
+  hydrated_bloc: ^10.0.0
   path_provider: ^2.1.5
   crypto_font_icons: ^1.0.1
   json_annotation: ^4.4.0
@@ -22,7 +22,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  bloc_test: ^9.0.1
+  bloc_test: ^10.0.0
   mocktail: ^1.0.4
   flutter_lints: ^5.0.0
   build_runner: ^2.4.14
